@@ -51,6 +51,7 @@ git remote add origin https://github.com/Nyaraa-2/projet_git.git  >> Projet sur 
 
 git push -u origin main >> Envoie les données
 
+git fetch , verifie les changements sur le remote
 ## …or push an existing repository from the command line
 
 git remote add origin https://github.com/Nyaraa-2/projet_git.git
