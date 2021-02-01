@@ -45,6 +45,11 @@ git commit -m "first commit"
 
 git branch -M main
 
+git branch 'nomdelabranche' <!--Creer une branche>
+
+git checkout 'nomdelabranche' <!--change de branche>
+
+git checkout -b 'nomdelabranche'
 
 git remote add origin https://github.com/Nyaraa-2/projet_git.git  >> Projet sur le pc, le lier à un remote, relier le projet au repo créer
 
